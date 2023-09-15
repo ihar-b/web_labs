@@ -1,0 +1,76 @@
+ .hero {
+
+  background: url("../img/hero-image.svg") no-repeat right -240px top 170px;
+}
+
+.hero__inner {
+  padding-top: 80px;
+  width: 540px;
+  padding-bottom: 142px;
+  height: 450px;
+}
+
+
+.hero__title {
+  color: #091133;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 48px;
+}
+
+.hero__paragraph {
+  color: #6F7CB2;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.hero__icon2 {
+  padding-top: 45px;
+  padding-left: 249px;
+}
+
+.hero__titles {
+  display: flex;
+  height: 26px;
+}
+
+.hero__title1 {
+  color: #091133;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+.hero__title2 {
+  padding-left: 180px;
+  color: #091133;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+.hero__par1 {
+  width: 220px;
+  height: 54px;
+  color: #5D6970;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+
+}
+
+.hero__par2 {
+padding-left: 69px;
+  width: 220px;
+  height: 54px;
+  color: #5D6970;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+
+}
+.hero__pars{
+  display: flex;
+}
+
