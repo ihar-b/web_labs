@@ -1,0 +1,13 @@
+.main__{
+  display: flex;
+  height: 738px;
+}
+.main__left {
+  width: 540px;
+  padding-top: 140px;
+
+}
+.main__right{
+  padding-top: 70px;
+}
+
